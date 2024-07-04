@@ -1,117 +1,72 @@
 # Table of Contents / Org Menu
 Where everything is on this gigantic messy org account. Please add any crucial module links.
 
-## ITP
-https://cyf-programming.netlify.app/ 
+## The Current Curriculum 
+Is a tenant of our sister org CYF, here: https://github.com/CodeYourFuture/curriculum/org-mcb as part of our collaborative development partnership.
 
-- https://github.com/CodeYourFuture/Module-User-Focused-Data
-- https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
-- https://github.com/CodeYourFuture/Module-Data-Groups
-- https://github.com/CodeYourFuture/Module-Data-Flows
-
-## The Current Curriculum https://github.com/CodeYourFuture/curriculum
-
-[Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects)
+[HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [Frameworks](#frameworks) | [Servers](#servers) | [Databases](#databases) | [Launch](#the-launch)
 
 ## Module Repos
 Each module should have its own coursework repo. The naming structure for mandatory work _should_ be consistent
-- **Coursework** https://github.com/CodeYourFuture/Module-Name
-- **Solution Guides** should be stored in a solutions branch
-There is a template repo to help us do this: 
-- https://github.com/CodeYourFuture/CYF-Module-Template 
+- **Coursework** https://github.com/Migracode-Barcelona/Module-Name
+- **Solution Guides** should be stored in a solutions branch of the coursework repo
 
-### Fundamentals, useful repos
-- Course Repo https://github.com/CodeYourFuture/Course-Fundamentals
-- https://github.com/CodeYourFuture/cyf-blocks-fundamentals
-- https://github.com/CodeYourFuture/Ship-It
-- https://github.com/CodeYourFuture/Coursework-Planner <== every trainee has one planner for all their work in all courses and modules
+### Fundamentals, optional starter course, useful repos
+- Course Repo https://github.com/Migracode-Barcelona/Course-Fundamentals
+- https://github.com/CodeYourFuture/cyf-blocks-fundamentals <== the original CYF blocks repo
+- https://github.com/Migracode-Barcelona/Ship-It
+- https://github.com/Migracode-Barcelona/Coursework-Planner <== every trainee has one planner for all their work in all courses and modules
+
+Here is an example planner showing all the work a trainee has to do in all modules:
+https://github.com/orgs/Migracode-Barcelona/projects/4
 
 ### HTML-CSS
-- Module Repo https://github.com/CodeYourFuture/Module-HTML-CSS
-- Module Project. https://github.com/CodeYourFuture/HTML-CSS-Module-Project | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
-- https://github.com/CodeYourFuture/Portfolio <== every trainee develops this portfolio over the entire programme
+- Module Repo https://github.com/Migracode-Barcelona/Module-HTML-CSS
+- Module Project. https://github.com/Migracode-Barcelona/HTML-CSS-Module-Project | [Project Solution](https://github.com/Migracode-Barcelona/HTML-CSS-Module-Project-Solution)
+- https://github.com/Migracode-Barcelona/Portfolio <== every trainee must develop a portfolio over the entire program
 
 ### JS1
-- Module Repo https://github.com/CodeYourFuture/Module-JS1
-- Module Project: https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-1-Assessment)
+- Module Repo https://github.com/Migracode-Barcelona/Module-JS1
+- Module Project: https://github.com/Migracode-Barcelona/Incremental-Development-Project <= from our sister org, HYF
+- [Check In Assessment](https://github.com/Migracode-Barcelona/JavaScript-Core-1-Assessment)
 
 ### JS2
-- Module Repo https://github.com/CodeYourFuture/Module-JS2
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment)
+- Module Repo https://github.com/Migracode-Barcelona/Module-JS2
+- [Check In Assessment](https://github.com/Migracode-Barcelona/JavaScript-Core-2-Assessment)
 
 ### JS3
-- Module Repo https://github.com/CodeYourFuture/Module-JS3
-- Module Project. https://github.com/CodeYourFuture/JS3-Module-Project (TV Show)
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
+- Module Repo https://github.com/Migracode-Barcelona/Module-JS3
+- Module Project. https://github.com/Migracode-Barcelona/JS3-Module-Project (TV Show)
+- [Check In Assessment](https://github.com/Migracode-Barcelona/JavaScript-Core-3-Assessment)
 
-### React
-- Module Repo https://github.com/CodeYourFuture/Module-React
-- Module Project https://github.com/CodeYourFuture/React-Module-Project (React Hotel)
-- [Check In Assessment](https://github.com/CodeYourFuture/React-Assessment)
+### Frameworks
+- Module Repo https://github.com/Migracode-Barcelona/Module-Frameworks
+- Module Project https://github.com/Migracode-Barcelona/Frameworks-Module-Project (React Hotel)
+- [Check In Assessment](https://github.com/Migracode-Barcelona/React-Assessment)
 
-### Node
-- Module Repo https://github.com/CodeYourFuture/Module-Node
-- Module Project [Project](https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
+### Servers
+- Module Repo https://github.com/Migracode-Barcelona/Module-Servers
+- Module Project [Project](https://github.com/Migracode-Barcelona/CYF-Slack-Your-Future-Project-Backend) | Solution???
 
 ### Databases
-- Module Repo https://github.com/CodeYourFuture/Module-Databases
-- Module Project. [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
+- Module Repo https://github.com/Migracode-Barcelona/Module-Databases
+- Module Project. [Full Stack Project Assessment](https://github.com/Migracode-Barcelona/Full-Stack-Project-Assessment)
 
 ### The Launch 
-- Module Repo https://github.com/CodeYourFuture/Module-The-Launch
-- Current starter kit: https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
+- Module Repo https://github.com/Migracode-Barcelona/Module-The-Launch
+- Current starter kit: https://github.com/textbook/starter-kit
 
 ### Portfolio
 
 ### Group Projects
-- https://github.com/CodeYourFuture/CYF-Group-Projects
-- https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
-- https://github.com/CodeYourFuture/CYF-Code-Review-Group-Project
-- https://github.com/CodeYourFuture/group-project-jsf-time
-- https://github.com/CodeYourFuture/terminal-tic-tac-toe
-- https://github.com/CodeYourFuture/1000-Paper-Cranes
+- [ Group Projects, Repos](https://github.com/CodeYourFuture/Group-Projects)
+-[ Group Projects, Briefings](https://cyf-projects.netlify.app/)
 
-## Solo Projects
+## Solo Projects we might fork and develop
 - https://github.com/CodeYourFuture/Codewars-API-Project
 - https://github.com/CodeYourFuture/GitHub-Activity-Project
 - https://github.com/CodeYourFuture/CLI-Treasure-Hunt
 - https://github.com/CodeYourFuture/three-kata-websites
 
 ### Workshops live here in folders
-https://github.com/CodeYourFuture/CYF-Workshops 
-
-## Syllabus
-Syllabus is on the move! It lives here: https://github.com/CodeYourFuture/syllabus (soon moving to  https://github.com/CodeYourFuture/curriculum) and the project board is here: https://github.com/orgs/CodeYourFuture/projects/35
-
-We are building a module project repo for each module. These will be named like this:
-- https://github.com/CodeYourFuture/Module-Name-Module-Project
-- https://github.com/CodeYourFuture/Module-Name-Module-Project-Solution
-
-## Tracks and Programmes
-
-### Immersive Engineering
-- https://github.com/CodeYourFuture/immersive-go-course
-
-### Quality Engineering
-- https://github.com/CodeYourFuture/QE-Track
-
-### Cloud Track
-- https://github.com/CodeYourFuture/Cloud-Module-Week-0-Challenge
-
-### DevOps Track
-- https://github.com/CodeYourFuture/devops-module-1
-- https://github.com/CodeYourFuture/DevOps-Basics-Slack-Relay
-- https://github.com/CodeYourFuture/DevOps-Basics-Lesson-3-London8
-- https://github.com/CodeYourFuture/DevOps-Advanced-Shared-Server
-
-### Front End Track
-- https://github.com/CodeYourFuture/1000-Paper-Cranes
-- https://github.com/CodeYourFuture/Web-Developer-Requirements-Project
-- https://github.com/CodeYourFuture/CYF-Record-A-Goose-Project 
-- https://github.com/CodeYourFuture/CYF-Sass-In-React
-- https://github.com/CodeYourFuture/wordpress-module
-
-
-
-
+https://github.com/CodeYourFuture/CYF-Workshops <= a joint project with CYF (who will change the name if you like!)
